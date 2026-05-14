@@ -425,5 +425,8 @@ For questions about this project or the **AI Agents Mastery** course:
 - Course: [AI Agents Mastery Link]
 
 ---
-
+HEAD
 **Built with ❤️ for the AI Agents Mastery community**
+=======
+**Built with ❤️ for the AI Agents Mastery community**
+
