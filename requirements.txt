@@ -1,0 +1,43 @@
+# Core AI/ML Frameworks
+pydantic-ai==0.0.13
+langgraph==0.2.28
+langchain-core==0.3.15
+
+# OpenAI (for Pydantic AI, DALL-E 3, and GPT-4o)
+openai==1.57.2
+
+# Google Gemini (for vision analysis)
+google-generativeai==0.8.3
+
+# Vector Database & Embeddings
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+# Dataset & Image Processing
+datasets==3.1.0
+pillow==11.0.0
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.1
+
+# HTTP Client
+httpx==0.28.1
+
+# Configuration & Environment
+python-dotenv==1.0.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Jupyter Notebook Support
+jupyter==1.1.1
+ipykernel==6.29.5
+ipython==8.30.0
+matplotlib==3.9.3
+
+# Development Tools (optional but recommended)
+pytest==8.3.4
+black==24.10.0
+
+# UI
+gradio

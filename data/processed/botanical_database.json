@@ -1,0 +1,258 @@
+[
+  {
+    "common_name": "pink primrose",
+    "scientific_name": "Primula vulgaris",
+    "family": "Primulaceae",
+    "native_region": "Europe and parts of Asia",
+    "description": "The Pink Primrose, scientifically known as Primula vulgaris, is a perennial flowering plant belonging to the Primulaceae family. Characterized by its rosettes of soft, oval leaves, this species produces clusters of fragrant, cup-shaped flowers that bloom in early spring, typically in shades of pale pink. The flowers often have a striking yellow eye at their center, enhancing their visual appeal. Growing to a height of about 15 to 30 centimeters, Pink Primrose prefers moist, well-drained soils and can thrive in partial shade or full sunlight. This plant is often found in meadows, woodlands, and along verges, making it a favorite among gardeners seeking to attract pollinators. The Pink Primrose is also known for its ability to self-seed, ensuring its presence in suitable habitats year after year.",
+    "category_id": 0
+  },
+  {
+    "common_name": "hard-leaved pocket orchid",
+    "scientific_name": "Coelognathus ensifolius",
+    "family": "Orchidaceae",
+    "native_region": "Southeast Asia",
+    "description": "The hard-leaved pocket orchid, known scientifically as Coelognathus ensifolius, is a perennial herbaceous plant belonging to the diverse Orchidaceae family. This orchid is native to the rainforests of Southeast Asia, thriving particularly in lowland areas where humidity is high and light is filtered by the forest canopy. The plant is characterized by its thick, leathery leaves that are adapted to withstand varying environmental conditions. The flowers are typically small, but they bloom in clusters, showcasing intricate patterns and colors that attract various pollinators, particularly bees. This species has a unique growth habit, often growing as an epiphyte, which means it can be found growing on other plants without harming them. Its ability to thrive in shaded conditions makes it a popular choice for collectors and enthusiasts of orchids.",
+    "category_id": 1
+  },
+  {
+    "common_name": "canterbury bells",
+    "scientific_name": "Campanula medium",
+    "family": "Campanulaceae",
+    "native_region": "Southern Europe",
+    "description": "Canterbury bells (Campanula medium) are biennial plants known for their striking, bell-shaped flowers that bloom in a variety of colors, including blue, purple, pink, and white. The plant typically grows to a height of 60 to 90 cm (about 24 to 36 inches) and features large, oval to lance-shaped leaves that can be up to 20 cm long. The flowers are clustered on tall stems and can measure 4 to 5 cm in length, appearing during the summer months. This species prefers full sun to partial shade and thrives in well-drained soil rich in organic matter. Originating from Southern Europe, Canterbury bells are often cultivated in gardens and are popular in floral arrangements as cut flowers due to their elegant appearance.",
+    "category_id": 2
+  },
+  {
+    "common_name": "sweet pea",
+    "scientific_name": "Lathyrus odoratus",
+    "family": "Fabaceae",
+    "native_region": "Mediterranean region",
+    "description": "Sweet pea (Lathyrus odoratus) is a flowering plant in the family Fabaceae, recognized for its fragrant, colorful blossoms. This annual plant can grow up to 6 feet tall, producing climbing tendrils that allow it to ascend supports and structures. The leaves are pinnate with leaflets that enhance its climbing ability. Sweet peas exhibit a range of flower colors, including white, pink, purple, and blue, which are often richly scented, attracting various pollinators. Blooming typically occurs in spring to early summer, making it a popular choice for gardens and as cut flowers. The species is not only valued for its ornamental qualities but also has historical significance in cultivation, where it has been developed into numerous varieties. Sweet peas thrive in well-drained soil with full sun exposure, preferring cooler temperatures for optimal growth.",
+    "category_id": 3
+  },
+  {
+    "common_name": "english marigold",
+    "scientific_name": "Calendula officinalis",
+    "family": "Asteraceae",
+    "native_region": "Southern Europe, Mediterranean region",
+    "description": "The English Marigold, scientifically known as Calendula officinalis, is a flowering plant belonging to the Asteraceae family. This hardy annual typically grows between 30 to 60 centimeters in height and produces vibrant orange to yellow flowers that bloom throughout the growing season. The leaves are lanceolate and can be either soft and hairy or smooth, depending on the cultivar. Native to Southern Europe and the Mediterranean region, English Marigolds thrive in well-drained soils and prefer full sun. They are often cultivated for their ornamental value, as well as for medicinal purposes in herbal remedies, skin care, and culinary applications. The petals of the flowers can be used to add color to salads and are sometimes referred to as \"pot marigold.\" These plants are also known for attracting pollinators, making them a beneficial addition to gardens.",
+    "category_id": 4
+  },
+  {
+    "common_name": "tiger lily",
+    "scientific_name": "Lilium lancifolium",
+    "family": "Liliaceae",
+    "native_region": "East Asia (China, Korea, and Japan)",
+    "description": "The tiger lily (Lilium lancifolium) is a striking perennial flowering plant known for its distinctive orange flowers adorned with dark purple spots. This bulbous herb thrives in well-drained soils and prefers sunny to partially shaded locations, commonly found in grassy meadows, open woods, and along roadsides. The plant can reach heights of 3 to 4 feet, producing multiple nodding, trumpet-shaped flowers from mid to late summer. Each flower consists of six tepals that curve backward, forming a wild and frilly appearance. The lanceolate leaves are arranged in a whorled pattern along the stem, providing an elegant backdrop to the vibrant blossoms. Tiger lilies are also valued for their resilience and ability to naturalize in suitable environments, making them a popular choice in gardens. In traditional medicine, various parts of the plant have been utilized for their potential therapeutic properties.",
+    "category_id": 5
+  },
+  {
+    "common_name": "moon orchid",
+    "scientific_name": "Phalaenopsis amabilis",
+    "family": "Orchidaceae",
+    "native_region": "Southeast Asia",
+    "description": "The Moon Orchid, scientifically known as Phalaenopsis amabilis, is a highly sought-after tropical orchid prized for its elegant beauty. This epiphytic plant typically features broad, flat, leathery leaves that can reach lengths of 30-40 cm. The flowers are perhaps the most stunning aspect, showcasing a range of colors, primarily white with hints of pink or yellow along the lip. Each flower can measure up to 10 cm in diameter and presents a captivating, long-lasting bloom that can last several months. The Moon Orchid thrives in warm, humid environments and is often cultivated indoors as a houseplant. Successful cultivation requires bright, indirect light, consistent moisture, and well-draining growing media. Native to the tropical regions of Southeast Asia, Phalaenopsis amabilis is not only an icon in horticulture but also a symbol of elegance and beauty.",
+    "category_id": 6
+  },
+  {
+    "common_name": "bird of paradise",
+    "scientific_name": "Strelitzia reginae",
+    "family": "Strelitziaceae",
+    "native_region": "South Africa",
+    "description": "The Bird of Paradise (Strelitzia reginae) is a striking perennial plant known for its unique and flamboyant flowers that resemble the plumage of tropical birds. The plant can grow up to 5 feet in height, featuring large, banana-like leaves that can be up to 18 inches long and form a lush, green rosette. The flowers, which emerge from rigid, upright stalks, consist of vibrant orange and blue petals, creating a stunning visual display. The inflorescence is enclosed in a green bract that resembles a bird\u2019s beak, hence the common name. This species thrives in warm, subtropical to tropical climates and prefers well-drained soil and full sun exposure. Bird of Paradise is often used as a decorative plant in gardens, landscapes, and indoor settings, prized for its exotic appearance and ability to attract hummingbirds and other pollinators.",
+    "category_id": 7
+  },
+  {
+    "common_name": "monkshood",
+    "scientific_name": "Aconitum napellus",
+    "family": "Ranunculaceae",
+    "native_region": "Europe and Asia",
+    "description": "Monkshood, scientifically known as Aconitum napellus, is a perennial plant that belongs to the Ranunculaceae family. It typically features tall spikes of striking blue to purple flowers shaped like hoods, which is how it got its common name. The plant can reach heights of 1 to 4 feet and has lobed, dark green leaves that are palmately cut, contributing to its attractive appearance in gardens. Unsurprisingly, all parts of monkshood are highly toxic, containing alkaloids such as aconitine, which can cause serious health issues if ingested. Monkshood is often found in moist, shady habitats such as woodland clearings and along streams. It blooms in late summer to early fall, attracting various pollinators, including bees. Cultivated in gardens for their ornamental value, caution should be exercised due to their poisonous nature, making proper identification and care essential.",
+    "category_id": 8
+  },
+  {
+    "common_name": "globe thistle",
+    "scientific_name": "Echinops",
+    "family": "Asteraceae",
+    "native_region": "Europe and Asia",
+    "description": "Globe thistle, belonging to the genus Echinops, is known for its striking spherical flower heads, which are composed of numerous small tubular florets that can be blue, purple, or white in color. The plant typically grows to a height of 1 to 4 feet and features spiny, deeply lobed leaves that are grey-green and contrast beautifully with its vibrant blooms. Blooming from summer to early autumn, the round flower clusters are not only visually appealing but also attract various pollinators, including bees and butterflies. Globe thistles thrive in well-drained soils and can tolerate drought, making them resilient in various landscapes. They are often used in ornamental gardens and are appreciated for their unique appearance and ability to thrive in poorer soil conditions.",
+    "category_id": 9
+  },
+  {
+    "common_name": "snapdragon",
+    "scientific_name": "Antirrhinum majus",
+    "family": "Plantaginaceae",
+    "native_region": "Mediterranean region",
+    "description": "Snapdragon, scientifically known as Antirrhinum majus, is a perennial to biennial flowering plant belonging to the Plantaginaceae family. This charming plant is native to the Mediterranean region and is widely cultivated for its striking floral displays. The flowers are tubular and come in a variety of colors, including pink, red, yellow, and white, often blooming from late spring to fall. Notable for their unique open and close mechanism, the blossoms resemble a dragon's mouth, which gives rise to the common name. Snapdragons produce tall spikes of flowers, making them popular in garden borders and as cut flowers in arrangements. The plant can vary in height from a few inches to several feet, depending on the variety. They prefer well-drained soil and full sun, and while typically grown as annuals, they can act as perennials in mild climates.",
+    "category_id": 10
+  },
+  {
+    "common_name": "colt's foot",
+    "scientific_name": "Tussilago farfara",
+    "family": "Asteraceae",
+    "native_region": "Europe, Asia, and North America",
+    "description": "Colt's foot (Tussilago farfara) is a perennial herbaceous plant that typically grows from rhizomes, reaching heights of 10 to 30 cm. The plant features large, heart-shaped leaves that can grow up to 30 cm in diameter, which develop after the flowers bloom. The flowers, resembling dandelions, are bright yellow and appear in early spring before the leaves, giving it a distinctive appearance. The flower heads are composed of numerous disk florets, often attracting various pollinators. Colt's foot is commonly found in moist, disturbed areas such as roadsides and waterways. Historically, it has been used in traditional medicine for its cough-suppressing properties, and its leaves are rich in mucilage. Care must be taken when using the plant medicinally, as it contains pyrrolizidine alkaloids, which can be harmful in large quantities.",
+    "category_id": 11
+  },
+  {
+    "common_name": "king protea",
+    "scientific_name": "Protea cynaroides",
+    "family": "Proteaceae",
+    "native_region": "Southern Africa",
+    "description": "The King Protea (Protea cynaroides) is a striking and distinctive flowering plant native to the fynbos region of South Africa. It is renowned for its large, artichoke-like flowers that can reach up to 30 cm (12 inches) in diameter, featuring a crown of spectacular pink to red petals that encircle a central tuft of furry white or cream-colored florets. The leaves are leathery, elongated, and arranged in a spiral around the stem, with a glossy green finish. This plant can grow up to 1.2 meters (4 feet) tall and thrives in well-drained, sandy soil, typically found in poor nutrient conditions. As a fire-adapted species, King Protea regenerates from its underground structure after wildfires, which play a critical role in its life cycle. Due to its unique appearance and resilience, it is a popular choice in ornamental gardening and is also an important symbol in South African culture.",
+    "category_id": 12
+  },
+  {
+    "common_name": "spear thistle",
+    "scientific_name": "Cirsium vulgare",
+    "family": "Asteraceae",
+    "native_region": "Europe, Asia, and North Africa",
+    "description": "Spear thistle (Cirsium vulgare) is a herbaceous perennial plant characterized by its tall, erect stems that can reach heights of up to 1.5 meters (5 feet). The plant has deeply lobed, spiny leaves that are often hairy and can grow up to 30 cm (12 inches) in length. The flowers are a striking purple or pink coloration and are grouped in round, fluffy heads, attracting various pollinators such as bees and butterflies. Blooming occurs from mid-summer to early autumn. Originally native to Europe, Asia, and North Africa, spear thistle has become widespread in North America and is often regarded as a noxious weed in many regions due to its invasive nature. The plant thrives in disturbed areas, roadsides, and pastures, preferring sunny habitats.",
+    "category_id": 13
+  },
+  {
+    "common_name": "yellow iris",
+    "scientific_name": "Iris pseudacorus",
+    "family": "Iridaceae",
+    "native_region": "Europe, Asia, and North America",
+    "description": "Yellow Iris, scientifically known as Iris pseudacorus, is a perennial herbaceous plant that thrives in wetland environments, such as marshes, riverbanks, and ponds. It typically grows 2 to 4 feet tall and features long, sword-like leaves that are bright green in color. The plant is recognized for its striking yellow flowers that bloom in late spring to early summer, each flower exhibiting a distinct arrangement of three upright petals and three drooping sepals. The flowers attract a variety of pollinators, including bees and butterflies, making it an essential component of wetland ecosystems. In addition to its ecological importance, the Yellow Iris has also been used in traditional medicine and ornamental gardening, though care should be taken as all parts of the plant are toxic if ingested.",
+    "category_id": 14
+  },
+  {
+    "common_name": "globe-flower",
+    "scientific_name": "Trollius",
+    "family": "Ranunculaceae",
+    "native_region": "Northern Hemisphere, especially in temperate regions of Europe and Asia",
+    "description": "The Globe-flower, belonging to the genus Trollius, is distinguished by its unique, round, and often brightly colored flowers, which typically bloom in early to mid-spring. These flowers are often yellow or orange, resembling small globes, hence the name. The plant can vary in height, typically reaching between 30 to 60 cm. Its leaves are palmate, deeply lobed, and arranged at the base, providing a lush green backdrop to the vivid flowers. Globe-flowers thrive in moist, well-drained soil and are often found in wet meadows, along stream banks, or in forests. They prefer full sun to partial shade and can tolerate a range of soil types but flourish in nutrient-rich environments. In addition to their aesthetic appeal, Globe-flowers are of interest to local fauna, providing nectar for pollinators such as bees.",
+    "category_id": 15
+  },
+  {
+    "common_name": "purple coneflower",
+    "scientific_name": "Echinacea purpurea",
+    "family": "Asteraceae",
+    "native_region": "North America",
+    "description": "Purple Coneflower, or Echinacea purpurea, is a perennial herb native to the central and eastern regions of North America. This striking plant typically grows between 2 to 5 feet in height and features distinctive, large, purple daisy-like flowers with a prominent central cone, which can be orange to brown in color. The leaves are lance-shaped and can grow up to 10 inches long, arranged in a rosette at the base and alternately along the stem. Flowering occurs from early summer to late fall, attracting various pollinators including bees and butterflies. Purple Coneflower is well-known for its medicinal properties, particularly its use in herbal remedies to boost the immune system, and is commonly cultivated in gardens for its attractive blooms and drought-resistant qualities.",
+    "category_id": 16
+  },
+  {
+    "common_name": "peruvian lily",
+    "scientific_name": "Alstroemeria",
+    "family": "Alstroemeriaceae",
+    "native_region": "South America",
+    "description": "Peruvian lily, commonly known as Alstroemeria, is a genus of flowering plants native to South America, particularly in countries like Peru and Brazil. They are perennial plants, characterized by their striking, vibrant flowers that come in a range of colors including pink, orange, yellow, and white, often with dark markings. The plants typically grow in clumps, with long, lanceolate leaves that can be green or variegated. The flowers are funnel-shaped and usually have six petals, forming a distinctive star-like appearance. Alstroemeria is often cultivated as an ornamental plant in gardens and as a cut flower due to its attractive blooms and long vase life. These plants prefer well-drained soil and full sun to partial shade, making them ideal for borders and mixed beds.",
+    "category_id": 17
+  },
+  {
+    "common_name": "balloon flower",
+    "scientific_name": "Platycodon grandiflorus",
+    "family": "Campanulaceae",
+    "native_region": "East Asia, including China, Korea, and Japan",
+    "description": "Balloon flower, scientifically known as Platycodon grandiflorus, is a perennial herbaceous plant belonging to the Campanulaceae family. It is indigenous to East Asia, primarily found in countries such as China, Korea, and Japan. This plant is notable for its unique balloon-like buds that swell before blooming, eventually opening into star-shaped flowers. The flowers can vary in color, predominantly appearing in shades of blue, purple, and white. Balloon flower typically grows in upright clumps and reaches heights of about 12 to 24 inches (30 to 60 cm). The leaves are lanceolate and can be serrated, providing a lush green backdrop to the striking blossoms. As a hardy plant, it thrives in well-drained soil and can tolerate various light conditions, although it prefers full sun to partial shade. Balloon flower is often used in ornamental gardens due to its attractive blooms and resilience.",
+    "category_id": 18
+  },
+  {
+    "common_name": "giant white arum lily",
+    "scientific_name": "Zantedeschia aethiopica",
+    "family": "Araceae",
+    "native_region": "Southern Africa",
+    "description": "The Giant White Arum Lily, scientifically known as Zantedeschia aethiopica, is a perennial plant belonging to the Araceae family. It is native to Southern Africa, typically flourishing in wetlands, along riverbanks, and in marshy areas. This striking plant is characterized by its large, heart-shaped leaves that can grow up to 1 meter in length and its distinctive flower structure. The blooms feature a large, white spathe that surrounds a central cluster of tiny yellow flowers, creating an eye-catching floral display. The flowering period usually occurs from spring to summer, and it thrives in moist, well-drained soil with plenty of light. The plant can grow up to 1.5 meters in height and is often used in landscaping for its ornamental value and dramatic appearance. It is important to note that all parts of the plant are toxic if ingested, due to the presence of calcium oxalate crystals.",
+    "category_id": 19
+  },
+  {
+    "common_name": "fire lily",
+    "scientific_name": "Lilium bulbiferum",
+    "family": "Liliaceae",
+    "native_region": "Europe and Asia",
+    "description": "The Fire Lily, known scientifically as Lilium bulbiferum, is a striking perennial flowering plant belonging to the Liliaceae family. It typically grows between 60 to 120 cm in height and is characterized by its bold, trumpet-shaped flowers that can display vibrant hues of orange, red, or yellow. The plant features broad, lance-shaped leaves that grow alternately along the stem, creating a lush green backdrop for the flamboyant blooms. Fire Lilies are bulbous plants, with underground bulbs serving as storage organs for nutrients and water, allowing them to thrive in well-drained soils. They prefer sunny to partially shaded locations, making them suitable for garden borders or naturalized areas. The flowering period usually occurs from late spring to early summer, attracting various pollinators like bees and butterflies due to their vivid colors and sweet scent. This hardy plant is valued in ornamental gardening for its dramatic visual appeal.",
+    "category_id": 20
+  },
+  {
+    "common_name": "pincushion flower",
+    "scientific_name": "Scabiosa columbaria",
+    "family": "Caprifoliaceae",
+    "native_region": "Europe and Asia",
+    "description": "The Pincushion Flower (Scabiosa columbaria) is a perennial flowering plant known for its distinctive, rounded flower heads that resemble a pincushion, hence the common name. The flowers typically bloom in shades of blue, purple, or white and are surrounded by a rosette of jagged, green leaves. This plant generally grows between 1 to 2 feet tall and prefers well-drained soils with full sun exposure. It attracts a variety of pollinators, including bees and butterflies, making it a popular choice for gardens. The Pincushion Flower is valued for its long blooming period, often lasting from late spring through fall, and is commonly used in floristry for bouquets and arrangements.",
+    "category_id": 21
+  },
+  {
+    "common_name": "fritillary",
+    "scientific_name": "Fritillaria",
+    "family": "Liliaceae",
+    "native_region": "Temperate regions of the Northern Hemisphere",
+    "description": "Fritillary, belonging to the genus Fritillaria, comprises a group of bulbous plants widely recognized for their distinctive nodding flowers that often feature a checkered pattern. These perennial herbaceous plants typically grow from bulbs and exhibit a variety of colors, including purple, yellow, and white. The leaves are usually linear and lanceolate, emerging from the base of the stem. Fritillaries are predominantly found in temperate regions of the Northern Hemisphere, thriving in meadows, grasslands, and forested hillsides. They bloom in spring, attracting pollinators such as bees and butterflies. Some species, like Fritillaria meleagris, are particularly sought after for ornamental purposes in gardens due to their unique floral morphology. The plant's name derives from the Latin word 'fritillus,' meaning 'dice box,' referring to the checkered flower pattern resembling the boxes used for playing dice.",
+    "category_id": 22
+  },
+  {
+    "common_name": "red ginger",
+    "scientific_name": "Zingiber zerumbet",
+    "family": "Zingiberaceae",
+    "native_region": "Tropical regions of Asia and the Pacific Islands",
+    "description": "Red ginger, known scientifically as Zingiber zerumbet, is a perennial plant native to tropical Asia and the Pacific Islands. This plant features large, glossy leaves that can grow up to 3 feet long, forming a lush backdrop for its striking flower spikes. The inflorescence consists of bright red bracts, which can appear throughout the year, attracting various pollinators like hummingbirds and butterflies. The flowers, which emerge from these bracts, are yellow to white and quite fragrant. The plant thrives in well-drained, moist soil and prefers partial shade, making it a popular choice for tropical gardens and landscaping. Red ginger is not only admired for its ornamental qualities but also has cultural significance in many regions, often used in floral arrangements and traditional ceremonies.",
+    "category_id": 23
+  },
+  {
+    "common_name": "grape hyacinth",
+    "scientific_name": "Muscari",
+    "family": "Asparagaceae",
+    "native_region": "Europe, parts of Asia, and North Africa",
+    "description": "Grape Hyacinth, belonging to the genus Muscari, is a perennial flowering plant noted for its striking clusters of small, bell-shaped flowers resembling bunches of grapes. Typically spring-blooming, these plants produce a rich palette of colors, most commonly shades of blue, purple, and white, bringing vibrant hues to gardens and natural landscapes. The foliage consists of narrow, strap-like leaves that grow from the base, often forming dense clumps. Muscari thrives in well-drained soil and enjoys full sun to partial shade, making it adaptable to various garden settings. They are often used in borders, rock gardens, or as ground cover. Pollinators, particularly bees, are attracted to their fragrant blooms. In addition to their ornamental value, Grape Hyacinths are also known for their ability to naturalize, spreading over time through their bulbous roots.",
+    "category_id": 24
+  },
+  {
+    "common_name": "corn poppy",
+    "scientific_name": "Papaver rhoeas",
+    "family": "Papaveraceae",
+    "native_region": "Europe, Western Asia, and North Africa",
+    "description": "The corn poppy (Papaver rhoeas) is an annual flowering plant known for its striking red blooms, which are often found in fields and gardens. Growing to a height of 30 to 90 centimeters, it features slender, hairy stems and lobed, bluish-green leaves. The flowers typically measure 5 to 10 centimeters across and consist of four petals that are crumpled during bud stage, giving them a delicate appearance. The plant blooms from late spring to early summer, with its vivid flowers serving as a food source for various pollinators. Corn poppies are also notable for their role in the ecosystem, often thriving in disturbed soils and agricultural fields, where they have become symbols of remembrance due to their association with World War I, as they grew in battlefields.",
+    "category_id": 25
+  },
+  {
+    "common_name": "prince of wales feathers",
+    "scientific_name": "Leucadendron argenteum",
+    "family": "Proteaceae",
+    "native_region": "South Africa",
+    "description": "Leucadendron argenteum, commonly known as the Prince of Wales Feathers, is a striking evergreen shrub that is endemic to the mountainous regions of South Africa. Known for its characteristic silvery-grey foliage and bright yellow flower bracts, it can grow up to 3 meters tall. The leaves are long and narrow, arranged in a spiral, giving the plant a unique texture and visual appeal. The flowers appear in clusters and are predominantly yellow, attracting a variety of pollinators such as bees and birds. This species is well adapted to its natural fire-prone environment, with its seeds requiring fire to germinate effectively. The Prince of Wales Feathers is often cultivated in gardens and landscapes for its architectural form and vibrant blooms, making it a popular choice in ornamental horticulture.",
+    "category_id": 26
+  },
+  {
+    "common_name": "stemless gentian",
+    "scientific_name": "Gentiana acaulis",
+    "family": "Gentianaceae",
+    "native_region": "Alpine regions of Europe",
+    "description": "Gentiana acaulis, commonly known as stemless gentian, is a perennial flowering plant belonging to the Gentianaceae family. This species is primarily found in the alpine regions of Europe, thriving in rocky, well-drained soils. The plant typically reaches a height of 10 to 20 cm and features rosettes of basal leaves that grow close to the ground, giving it the 'stemless' characteristic. The leaves are lanceolate to oblong, with a glossy green appearance. In spring and early summer, stemless gentian produces striking, large, bright blue flowers that are trumpet-shaped, occurring in groups of one or two. These flowers are known for their vibrant color and are a significant attraction for pollinators like bees. The plant has adapted to its harsh mountain environment, making it a resilient species that has become popular in alpine gardens and for ornamental purposes.",
+    "category_id": 27
+  },
+  {
+    "common_name": "artichoke",
+    "scientific_name": "Cynara cardunculus var. scolymus",
+    "family": "Asteraceae",
+    "native_region": "Mediterranean region",
+    "description": "The artichoke, a variety of the thistle family, is a perennial plant known for its edible flower buds. Native to the Mediterranean region, it grows to a height of about 1.4 to 1.8 meters (4.5 to 6 feet) and features deeply lobed, grey-green leaves that can reach over a meter in length. The plant produces a large, edible bud, which is harvested and consumed before the flowers bloom. This bud is composed of tightly packed immature florets and is surrounded by large, fleshy bracts. When allowed to flower, the artichoke produces striking purple flowers that are attractive to pollinators. Cultivated primarily for food, the artichoke is nutritious, rich in fiber, vitamins C and K, and antioxidants, making it a popular choice for health-conscious diets.",
+    "category_id": 28
+  },
+  {
+    "common_name": "sweet william",
+    "scientific_name": "Dianthus barbatus",
+    "family": "Caryophyllaceae",
+    "native_region": "Europe and parts of Asia",
+    "description": "Sweet William (Dianthus barbatus) is a perennial flowering plant known for its clusters of vividly colored flowers, which can be pink, red, white, or purple. The plant typically grows between 30 to 60 centimeters tall and features narrow, lanceolate leaves that are often greyish-green. The flower heads are dense and often fragrant, attracting various pollinators, particularly bees. Sweet William thrives in well-drained soils and prefers full sun to partial shade. It is commonly used in borders, garden beds, and as a cut flower due to its attractive blooms and pleasant scent. This plant is also known for its historical association with traditional gardens and has several cultivars that enhance its ornamental value.",
+    "category_id": 29
+  },
+  {
+    "common_name": "carnation",
+    "scientific_name": "Dianthus caryophyllus",
+    "family": "Caryophyllaceae",
+    "native_region": "Mediterranean region",
+    "description": "The carnation, scientifically known as Dianthus caryophyllus, is a perennial plant valued for its beautiful and fragrant flowers. These blooms come in various colors, including pink, red, white, and yellow, often with ruffled petals. The plant has slender, green stems that can range from 30 to 60 cm in height. Carnations have narrow, grayish-green leaves that grow in a rosette pattern and are typically lanceolate in shape. The flowers are characterized by a distinct clove-like scent and are often used in floral arrangements due to their long-lasting nature. Carnations thrive in well-drained soil and prefer full sun to partial shade, making them popular in gardens and as cut flowers. They symbolize love and fascination in floral language and have been cultivated since ancient times.",
+    "category_id": 30
+  },
+  {
+    "common_name": "garden phlox",
+    "scientific_name": "Phlox paniculata",
+    "family": "Polemoniaceae",
+    "native_region": "Eastern North America",
+    "description": "Garden phlox (Phlox paniculata) is a perennial flowering plant that is native to Eastern North America. It typically grows to a height of 2 to 4 feet and features sturdy stems that are adorned with clusters of vibrant flowers, which can be found in shades of pink, red, purple, white, and bi-colored varieties. The flowers bloom from mid-summer to early fall, attracting pollinators such as butterflies and hummingbirds. The leaves are lance-shaped, arranged in opposite pairs, and have a glossy green appearance. Garden phlox prefers full sun to partial shade and thrives in well-drained, fertile soil, making it a popular choice for garden borders and as a cut flower. This plant is also known for its resistance to powdery mildew, especially when grown in an appropriate environment.",
+    "category_id": 31
+  }
+]
