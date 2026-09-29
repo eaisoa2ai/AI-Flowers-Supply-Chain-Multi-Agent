@@ -1,5 +1,8 @@
 # 🌺 Royal FloraHolland AI Flower Recognition System
 
+This repository serves as a sanitized, production-ready reference architecture built to demonstrate enterprise agentic patterns. 
+It mirrors the architectural designs, multi-agent state machines, and evaluation frameworks I deploy in enterprise environments, stripped of proprietary data and corporate logic.
+
 A production-grade multimodal AI agent system that identifies flowers from images and provides FloraHolland auction market intelligence using Pydantic AI and LangGraph.
 
 ![Project Banner](https://img.shields.io/badge/AI-Multimodal%20RAG-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
