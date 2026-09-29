@@ -372,7 +372,6 @@ This project demonstrates:
 
 ## 🎥 YouTube Video
 
-This project was created as a demonstration for the **AI Agents Mastery** course, showing:
 - Real-world use case (FloraHolland auction)
 - Production-grade architecture
 - Cost optimization strategies
